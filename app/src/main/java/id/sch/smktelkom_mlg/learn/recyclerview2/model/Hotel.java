@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.model;
+package id.sch.smktelkom_mlg.learn.recyclerview2.model;
 
 /**
  * Created by yanda on 05/11/2016.
