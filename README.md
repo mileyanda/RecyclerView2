@@ -7,5 +7,5 @@
 - Asal Sekolah      : SMK Telkom Malang
 
 ##Hasil ScreenShoot Project RecyclerView2
-![Screenshoot_1](https://s17.postimg.org/plfhfxxtr/rcv2_1.jpg)
-![Screenshoot_2](https://s13.postimg.org/56q1662vr/rcv2_2.jpg)
+![Screenshoot_1](https://s17.postimg.org/plfhfxxtr/rcv2_1.jpg)<br>
+![Screenshoot_2](https://s13.postimg.org/56q1662vr/rcv2_2.jpg)<br>
